@@ -1,2 +1,2 @@
 # Selenium_Simple_login
-Simple automation of login to a dummy website
+Simple automation login to a dummy website
